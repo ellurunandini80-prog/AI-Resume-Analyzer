@@ -1,12 +1,7 @@
 # AI Resume Analyzer
 
 ## Project Description
-
-An AI-powered Resume Analyzer built using Streamlit, Google Gemini AI, and PyPDF2.
-
-This application analyzes resumes, extracts skills, detects missing keywords, provides resume improvement suggestions, interview preparation tips, and calculates an ATS score.
-
----
+AI-powered Resume Analyzer using Streamlit and Gemini AI for ATS scoring, skill gap analysis, resume improvement suggestions, and interview preparation.
 
 # Features
 
